@@ -12,5 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fefbb586c66a044eb1cb8a4089dedda, type: 3}
   m_Name: Introduction
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "It\u2019s a cool fall afternoon and you\u2019re enjoying the spoils
+    of your last treasure hunt when suddenly you hear a knock at the door. \u201CI\u2019m
+    not expecting anyone,\u201D you said to yourself. \r\n\r\nDo you:\r\n\r\n1 -
+    Answer the door\n2 - Grab your weapon and retreat to your hideout\r\n3 - Ignore
+    it and continue evaluating your finding"
+  nextStates:
+  - {fileID: 11400000, guid: 5603bb3f8fc27d24fa1e6a6b18d78577, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
