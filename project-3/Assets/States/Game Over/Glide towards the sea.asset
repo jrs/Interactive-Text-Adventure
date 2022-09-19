@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3fefbb586c66a044eb1cb8a4089dedda, type: 3}
-  m_Name: You opened the envelope
+  m_Name: Glide towards the sea
   m_EditorClassIdentifier: 
-  storyText: "It\u2019s a letter from the Crown Prince of Saudi Arabia. He needs
-    you to travel to see him right away, time is of the essence.\r\n\r\nDo you:\r\n\r\n1
-    - Leave right away to your secret airfield\n2 - Sleep on the request and think
-    about traveling in a few days"
+  storyText: "As you head towards the sea, you see a small open area to land. Bad
+    for you, this is a hunting ground for sharks. You\u2019ve become a tasty meal.\r\n\r\n1.
+    Start over, you\u2019re better than this.\r\n2. Sulk for a few. I don\u2019t
+    want to play anymore."
   nextStates:
-  - {fileID: 11400000, guid: 8779ab9e4829482469466f028ab25c27, type: 2}
+  - {fileID: 11400000, guid: 22ac2cef6bbd6cd4ba533f949e15566b, type: 2}
   - {fileID: 0}
