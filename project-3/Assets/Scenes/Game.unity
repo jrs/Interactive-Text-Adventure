@@ -181,7 +181,7 @@ GameObject:
   - component: {fileID: 395434260}
   - component: {fileID: 395434259}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Background Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -341,7 +341,7 @@ GameObject:
   - component: {fileID: 598979426}
   - component: {fileID: 598979425}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Place Holder Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -735,7 +735,7 @@ GameObject:
   - component: {fileID: 1361526696}
   - component: {fileID: 1361526695}
   m_Layer: 5
-  m_Name: Text Background
+  m_Name: Text Background Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -774,7 +774,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.2735849, g: 0.034843363, b: 0.034843363, a: 0.62352943}
+  m_Color: {r: 0.2735849, g: 0.034843363, b: 0.034843363, a: 0.56078434}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

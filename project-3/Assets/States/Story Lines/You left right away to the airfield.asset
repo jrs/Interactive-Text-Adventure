@@ -10,17 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3fefbb586c66a044eb1cb8a4089dedda, type: 3}
-  m_Name: A You answered the door
+  m_Name: You left right away to the airfield
   m_EditorClassIdentifier: 
-  storyText: 'You Answered The Door
+  storyText: 'The Crown Prince usually calls when he wants to meet. I wonder why
+    he would send a letter instead. It must be something top secret to hide in our
+    communication.
 
+    
 
-    It was the local postman delivering an
-    envelope that has the word **urgent** stamped on the front side.
-
-
-
-    1 - You
-    take the envelope from the postman and return to your house.'
-  nextStates:
-  - {fileID: 11400000, guid: 6b69776027e598744b72bdce01ae0362, type: 2}
+    1. You gas up the plane and get this flight going'
+  nextStates: []

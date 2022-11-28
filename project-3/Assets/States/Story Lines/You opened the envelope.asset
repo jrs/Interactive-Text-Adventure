@@ -17,5 +17,5 @@ MonoBehaviour:
     - Leave right away to your secret airfield\n2 - Sleep on the request and think
     about traveling in a few days"
   nextStates:
-  - {fileID: 11400000, guid: 8779ab9e4829482469466f028ab25c27, type: 2}
+  - {fileID: 11400000, guid: 5331ac480025d954995675d51d4c4cf6, type: 2}
   - {fileID: 0}
